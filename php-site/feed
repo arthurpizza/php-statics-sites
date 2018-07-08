@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>PHP Studies</title>
+  <link>http://deep1q.byethost8.com/</link>
+  <description>This shit is FIRE!</description>
+  <item>
+    <title>First Post</title>
+    <link>http://deep1q.byethost8.com/posts/2018-07-07-first-post/</link>
+    <description>This is my first page made with PHP. I know that I want to make a very simple and light weight PHP site for very basic projects. However PHP servers are more expensive than static servers. There is however nothing stoping me from using this to generate a static site with wget when I'm done. It's a work in progress.</description>
+  </item>
+</channel>
+
+</rss>
